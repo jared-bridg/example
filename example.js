@@ -1,2 +1,3 @@
-var sameerVar = "sameer";
-var newSameerLine = "newSameerLine";
+var jaredVar = "jared";
+
+var newJaredVar = "newJaredvar";
