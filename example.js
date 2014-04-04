@@ -1,1 +1,1 @@
-var masterVar = "master";
+var jaredVar = "jared";
