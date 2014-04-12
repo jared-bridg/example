@@ -11,3 +11,5 @@ var wee = "wee";
 var aNewLine = "a new line";
 
 var anotherLine = "anotherLine";
+
+var newLine = "newasdfadf";
