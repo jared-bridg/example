@@ -1,3 +1,4 @@
+var newdev = "new dev";
 var hahaha = "hahaha";
 
 var jaredVar = "jared";
