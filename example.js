@@ -12,3 +12,5 @@ var wee = "wee";
 var aNewLine = "a new line";
 
 var anotherLine = "anotherLine";
+
+var myChanges = "my changes";
