@@ -1,3 +1,5 @@
+var hahaha = "hahaha";
+
 var jaredVar = "jared";
 
 var newLine = "newline";
