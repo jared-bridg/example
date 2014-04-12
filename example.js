@@ -6,6 +6,7 @@ var newLine = "newline";
 
 var newJaredVar = "newJaredvar";
 
+var newLine = "newLine";
 var someNewVar = "asdfasdfasdf";
 
 var wee = "wee";
@@ -16,3 +17,4 @@ var anotherLine = "anotherLine";
 
 var newLine = "newasdfadf";
 var newLine = "newLine";
+var myChanges = "my changes";
