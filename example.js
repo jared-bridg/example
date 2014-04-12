@@ -15,3 +15,4 @@ var aNewLine = "a new line";
 var anotherLine = "anotherLine";
 
 var newLine = "newasdfadf";
+var newLine = "newLine";
