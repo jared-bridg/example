@@ -7,3 +7,7 @@ var newJaredVar = "newJaredvar";
 var someNewVar = "asdfasdfasdf";
 
 var wee = "wee";
+
+var aNewLine = "a new line";
+
+var anotherLine = "anotherLine";
