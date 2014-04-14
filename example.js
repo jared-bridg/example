@@ -17,4 +17,8 @@ var aNewLine = "a new line";
 var anotherLine = "anotherLine";
 
 var newLine = "newasdfadf";
+<<<<<<< HEAD
+=======
+var newLine = "newLine";
+>>>>>>> 03122c21f1cf59770a1a87af9c039ce868d939b0
 var myChanges = "my changes";
