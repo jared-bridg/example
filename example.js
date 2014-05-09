@@ -1,3 +1,5 @@
+var newNEwNew = 151515;
+
 var newdev = "new dev";
 var hahaha = "hahaha";
 
